@@ -7,7 +7,7 @@ Ej.:
 	class Conexion
 	{
 
-		private $host;
+            private $host;
 	    private $db;
 	    private $user;
 	    private $password;
