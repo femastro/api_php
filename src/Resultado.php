@@ -1,4 +1,5 @@
 <?php 
+	include_once "src/Productos.php";
 
 	class Resultado{
 
